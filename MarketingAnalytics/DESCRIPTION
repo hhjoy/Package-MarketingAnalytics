@@ -1,0 +1,18 @@
+Package: MarketingAnalytics
+Type: Package
+Title: Marketing Analytics in R: Statistical Modeling
+Version: 0.0.1
+Author: Verena Pflieger
+Maintainer: Verena Pflieger <verena.pflieger@inwt-statistics.de>
+Description: The package bundels the functionalities needed for Marketing Analytics, in specific: 
+    linear regression e.g. for customer lifetime modeling
+    logistic regression e.g. for churn prevention
+    survival analysis with time-invariant covariates e.g. for modeling time until churn
+    principal component analysis for dimension reduction e.g. for extensice customer relation data
+Depends: 
+Imports: boot, car, corrplot, descr, ggplot2, Hmisc, MASS, muhaz, ROCR, rms, SDMTools, survival
+Suggests: 
+License: GNU General Public Version 3.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
