@@ -3,7 +3,7 @@ Type: Package
 Title: Marketing Analytics in R: Statistical Modeling
 Version: 0.0.1
 Author: Verena Pflieger
-Maintainer: Verena Pflieger <verena.pflieger@inwt-statistics.de>
+Maintainer: Verena Pflieger <verenapflieger@gmx.de>
 Description: The package bundels the functionalities needed for Marketing Analytics, in specific: 
     linear regression e.g. for customer lifetime modeling
     logistic regression e.g. for churn prevention
