@@ -11,8 +11,11 @@ Description: The package bundels the functionalities needed for Marketing Analyt
     principal component analysis for dimension reduction e.g. for extensice customer relation data
 Depends: 
 Imports: boot, car, corrplot, descr, ggplot2, Hmisc, MASS, muhaz, ROCR, rms, SDMTools, survival
-Suggests: 
+Suggests: ,
+    knitr,
+    rmarkdown
 License: GNU General Public Version 3.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
+VignetteBuilder: knitr
